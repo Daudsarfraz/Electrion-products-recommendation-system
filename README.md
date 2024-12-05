@@ -7,7 +7,6 @@ This project involves building a recommendation system using the **Amazon Electr
 The dataset used for this project is the **Amazon Electronics dataset**, which is part of the Amazon Reviews data available [here](http://jmcauley.ucsd.edu/data/amazon/). The dataset contains:
 
 - **Rows**: 7,824,482
-- **Columns**: 4
 - **Size**: 320 MB
 
 ### Columns:
